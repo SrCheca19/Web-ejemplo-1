@@ -1,0 +1,40 @@
+header {
+background-color:#3E6680;
+padding:15px;
+display:flex;
+justify-content: space-between;
+font-family:'Poppins', sans-serif;
+}
+
+nav{padding:25px;}
+
+table{
+font-family:'Nunito sans' , sans-serif;
+padding:30px;
+margin:0 auto;
+text-align:center; 
+border:20px; 
+border-collapse:collapse;} 
+
+
+
+footer{
+font-family:'Poppins', sans-serif;
+background-color:#8C4A5E; 
+text-align: center; 
+color: white; }
+
+
+.PROG{background-color:#66BB6A;}
+.SIST{background-color: #E57373}
+.IP{background-color:#FFD54F }
+.ING{background-color: #FFB74D}
+.LLMM{background-color:#E8C4B8 }
+.BBDD{background-color:#EDE0B0}
+.REC{background-color: #5C6BC0 }
+.SOST{background-color: #F48FB1}
+.DIG{background-color:#4DD0E1 }
+.ENT{background-color:#B39DDB }
+.PROY{background-color:#D6E0E7}
+.fila1{background-color:#CDE7F0}
+.hora{background-color:#BFE8E0}
